@@ -4,9 +4,6 @@
 ![Image-Absolute](assets/open-fest.png)
 
 #HSLIDE
-![Image-Absolute](assets/hotttorus.png)
-
-#HSLIDE
 ### Кой съм аз?
 
 * Аз съм Николай/Meddle. |
@@ -17,10 +14,6 @@
 
 #HSLIDE
 ![Image-Absolute](assets/me.jpg)
-
-#HSLIDE
-### DISCLAIMER
-![Image-Absolute](assets/disclaimer.png)
 
 #HSLIDE
 ### Кои сте вие?
@@ -125,13 +118,6 @@ e ::= x | λx:τ.e | e e | c
 ```
 e ::= x | λx:τ.e | e e | c | c:τ | let x:τ = e in e | ...
 ```
-
-#HSLIDE
-### Език
-
-* Имаме си езика, нека е статично типизиран засега, но ще разгледаме и няколко динамични примери. |
-* Нямаме никакви типове, имаме бяло платно от типове, нашата работа е да си ги добавим. |
-* И добавяйки ги, ще даваме примери на различни езици, ще разширяваме началния си синтаксис. |
 
 #HSLIDE
 
