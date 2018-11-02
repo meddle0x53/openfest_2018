@@ -934,5 +934,6 @@ class Monad m where
 
 * https://twitter.com/ntzvetinov
 * http://themeddle.com
+* https://themeddle.com/bg/posts/types
 
 ![Image-Absolute](assets/gimpy.jpg)
